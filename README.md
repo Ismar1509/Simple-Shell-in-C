@@ -11,7 +11,7 @@ gcc -o <output_name> ShellProject.c
 ```
 Output name can be any name you desire
 
-#How to run it (Windows)
+# How to run it (Windows)
 
 1. Download Cygwin terminal for Windows
 2. Navigate to cloned repository and file in terminal
